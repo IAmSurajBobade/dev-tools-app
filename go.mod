@@ -2,7 +2,7 @@ module dev-tools
 
 go 1.22.0
 
-toolchain go1.24.1
+toolchain go1.24.2
 
 require github.com/wailsapp/wails/v2 v2.10.1
 
